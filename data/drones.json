@@ -6,6 +6,11 @@
     "model": "",
     "status": "active",
     "notes": "",
-    "software": []
+    "software": [
+      {
+        "swId": "mmev0hz1u6yg",
+        "version": "13"
+      }
+    ]
   }
 ]
